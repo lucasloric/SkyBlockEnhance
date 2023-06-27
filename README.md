@@ -3,6 +3,12 @@ SkyBlock Enhance (SBE) is a mod project that brings together the functionalities
 
 With SBE, you'll enjoy GUI overlays, custom textures, efficient minion management, improved auction house functionalities, armor optimization, and dungeon stats tracking from SBA. Additionally, SBE introduces features like the Farming Island Overlay, Settings GUI, and expanded customization options.
 
+Our goal with SBE is to provide a seamless and enhanced experience for SkyBlock players. By merging the capabilities of SBA and SBE, we offer a convenient mod combination that optimizes your grinding, streamlines your gameplay, and expands your customization options.
+
+Join the SBE community for support, updates, and to take advantage of this powerful mod combination. Elevate your SkyBlock journey with SBE—the ultimate enhancement for Hypixel SkyBlock.
+
+Please note that SBE (SkyBlock Enhance) is an independent project and is not affiliated with or endorsed by the original developers of SBA or SBE.
+
 SBE (SkyblockEnhance) Mod
 # Installation Guide
 1. Ensure that you have Minecraft installed on your computer.
